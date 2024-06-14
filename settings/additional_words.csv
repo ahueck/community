@@ -13,3 +13,14 @@ MPI,em pi
 code,coat
 cuda
 clang
+thread
+ThreadSanitizer,threat sanitizer
+kernel
+stub
+util
+lambda
+functor
+sub,sup
+HPC,HBC
+bug,buck
+bugs,bucks
