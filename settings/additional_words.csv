@@ -15,7 +15,7 @@ cuda
 clang
 thread
 ThreadSanitizer,threat sanitizer
-kernel
+kernel,colonel
 stub
 util
 lambda
@@ -25,3 +25,12 @@ HPC,HBC
 bug,buck
 bugs,bucks
 OpenMP
+char,car
+block,pluck
+cmake,simic
+CMakeLists
+queue,cu
+bolt
+fox,box
+virtual,mutual
+override,overwrite,over right
